@@ -1,0 +1,11 @@
+About
+=====
+
+Module for installing python imaging (PIL) runtime and development packages
+
+Development packages are useful for installing dependencies for installing/compiling PIL manually (with pip for example)
+
+Caveats
+=======
+
+Tested on Debian 6 to serve my own purposes at the moment.
